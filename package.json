@@ -2,7 +2,7 @@
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://calculator-reactjs-app.herokuapp.com/",
   "engines": {
     "node": "8.9.0",
     "npm": "5.5.1"
